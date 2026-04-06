@@ -1,0 +1,5 @@
+ersion: 0.0
+os: linux
+hooks:
+  BeforeInstall:
+    - location: install.sh
